@@ -65,10 +65,6 @@ This project uses convolutional neural networks (CNNs) to extract features from 
 
 Contributions, bug reports, and feature requests are welcome! Please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-Specify your license here, for example, MIT License.
-
 ---
 
 Feel free to customize script names, dependencies, dataset details, and usage instructions based on your exact codebase. If you provide more details or files from the repo, I can help tailor this README further.
